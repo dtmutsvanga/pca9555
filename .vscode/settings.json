@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "pca9555_hal.h": "c",
+        "pca9555.h": "c"
+    }
+}
